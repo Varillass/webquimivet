@@ -3068,7 +3068,7 @@ input, select, textarea {
 				}
 
 		}
-				/*   buscador*/
+
 				
 
 /* Header */
@@ -3570,6 +3570,7 @@ input, select, textarea {
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 		}
+		
 
 		#wrapper > header p {
 			font-family: Raleway, Helvetica, sans-serif;
@@ -3692,7 +3693,6 @@ input, select, textarea {
 			margin: 0 auto;
 			width: 55em;
 		}
-
 		.wrapper.style2 {
 			background-color: #353849;
 		}
