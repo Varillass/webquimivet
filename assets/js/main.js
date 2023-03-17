@@ -168,12 +168,4 @@
 		});
 	  });
 
-	  const selectorPaginas = document.getElementById('selector-paginas');
-
-selectorPaginas.addEventListener('change', function() {
-  const paginaSeleccionada = selectorPaginas.value;
-  window.location.href = paginaSeleccionada;
-});
-   
-
 })(jQuery);
